@@ -1,0 +1,7 @@
+# Design
+../source/and_gate.sv
+../source/inv_gate.sv
+../source/nand_top.sv
+
+# Testbench
+../tb/tb.sv
