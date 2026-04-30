@@ -1,0 +1,5 @@
+../source/bloco_logico.sv
+../source/bloco_aritmetico.sv
+../source/mux_resultado.sv
+../source/ula_top.sv
+../tb/tb.sv
