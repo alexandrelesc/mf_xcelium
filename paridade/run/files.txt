@@ -1,0 +1,2 @@
+../source/paridade.sv
+../tb/tb.sv
