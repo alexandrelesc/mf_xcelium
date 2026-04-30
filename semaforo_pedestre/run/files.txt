@@ -1,0 +1,2 @@
+../source/semaforo_pedestre.sv
+../tb/tb.sv
