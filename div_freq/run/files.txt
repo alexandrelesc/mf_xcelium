@@ -2,4 +2,4 @@
 ../source/freq_div_config.sv
 
 # Testbench
-../tb/freq_div_config.sv
+../tb/tb_freq_div_config.sv
