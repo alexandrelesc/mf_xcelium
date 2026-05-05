@@ -1,0 +1,5 @@
+# Design
+../source/pwm.sv
+
+# Testbench
+../tb/tb_pwm.sv
