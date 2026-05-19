@@ -1,0 +1,5 @@
+# Design
+../source/ffd.sv
+
+# Testbench
+../tb/tb_ffd.sv

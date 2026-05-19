@@ -1,0 +1,5 @@
+# Design
+../source/swap_regs.sv
+
+# Testbench
+../tb/tb_swap_regs.sv

@@ -1,0 +1,5 @@
+# Design
+../source/senha_alarme.sv
+
+# Testbench
+../tb/tb_senha_alarme.sv
