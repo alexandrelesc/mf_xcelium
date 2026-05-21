@@ -1,0 +1,5 @@
+# Design
+../source/pipeline_sum.sv
+
+# Testbench
+../tb/tb_pipeline_sum.sv

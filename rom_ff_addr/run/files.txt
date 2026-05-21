@@ -1,0 +1,5 @@
+# Design
+../source/rom.sv
+
+# Testbench
+../tb/tb_rom.sv
