@@ -1,0 +1,5 @@
+# Design
+../source/vetor_sum.sv
+
+# Testbench
+../tb/tb.sv
